@@ -6,7 +6,6 @@ import configparser
 
 DMY = datetime.datetime.now().strftime('%d%m%y') # = '180122' дата в таком формате (и есть пароль!)
 
-# Use your own values here
 #api_id = 
 #api_hash = ' '
 
