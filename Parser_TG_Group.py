@@ -1,5 +1,5 @@
 #from telethon import TelegramClient
-from telethon.sync import TelegramClient
+from telethon.sync import TelegramClient  #pip install telethon
 from telethon import functions, types
 import datetime
 import configparser
